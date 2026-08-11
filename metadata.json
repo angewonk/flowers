@@ -1,0 +1,6 @@
+{
+  "name": "Flowers for Janna",
+  "description": "An interactive online flower bouquet garden and keepsake built with love for Janna, featuring music and custom flower arrangements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

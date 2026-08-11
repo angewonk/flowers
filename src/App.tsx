@@ -264,14 +264,7 @@ export default function App() {
             </div>
           </div>
 
-          {/* Floating Bloom Interactive Button */}
-          <div
-            onClick={triggerBloom}
-            className="absolute bottom-28 z-30 px-4 py-1.5 bg-gradient-to-r from-rose-500 to-pink-500 text-white rounded-full shadow-lg border border-white/80 flex items-center gap-1.5 cursor-pointer hover:scale-110 active:scale-95 transition-transform"
-          >
-            <Heart className="w-3.5 h-3.5 fill-white text-white" />
-            <span className="font-serif-display font-medium text-xs tracking-wider">bloom</span>
-          </div>
+
         </div>
 
         {/* Interactive Toolbar: Add Flowers */}
